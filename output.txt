@@ -1,0 +1,5 @@
+total 9
+drwxr-xr-x 1 Annalisa Caldarulo 197121  0 Jun  5 10:44 css/
+drwxr-xr-x 1 Annalisa Caldarulo 197121  0 Jun  5 11:36 js/
+-rw-r--r-- 1 Annalisa Caldarulo 197121  0 Jun  5 14:06 output.txt
+-rw-r--r-- 1 Annalisa Caldarulo 197121 19 Jun  5 14:04 text.txt
