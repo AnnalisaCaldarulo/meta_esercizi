@@ -21,7 +21,7 @@ const Examples = () => {
     }
     return (
         <Section title="Examples" id="examples">
-            <Tabs buttons={
+            <Tabs  buttons={
                 <>
                     <TabButton isSelected={selectedTopic === 'components'} onClick={() => setSelectedTopic("components")}>Components</TabButton>
                     <TabButton isSelected={selectedTopic === 'jsx'} onClick={() => setSelectedTopic("jsx")}>JSX</TabButton>
